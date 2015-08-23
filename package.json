@@ -1,6 +1,6 @@
 {
   "name": "dom-add-class",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Add classes to a given element or set of elements",
   "main": "index.js",
   "scripts": {
